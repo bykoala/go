@@ -1,4 +1,4 @@
-FROM frolvlad/alpine-glibc:latest
+#FROM frolvlad/alpine-glibc:latest
 FROM 100.125.35.202:20202/op_svc_servicestage/alpine-glibc:latest
 
 RUN mkdir -p /home/webapp/sample
